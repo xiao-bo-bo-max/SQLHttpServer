@@ -32,10 +32,14 @@ SQL 在线测试工具是一个简单的 Web 应用，允许用户通过一个�
 ## 目录结构
 
 /project-root
+
 │
-├── index.html           # 前端 HTML 文件
-├── server.c             # 后端 C 语言代码
-├── README.md            # 项目说明文件
+
+├── index.html	# 前端 HTML 文件
+
+├── server.c	# 后端 C 语言代码
+
+├── README.md	# 项目说明文件
 ## 使用说明
 
 ### 前端
